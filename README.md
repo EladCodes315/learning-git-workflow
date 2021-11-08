@@ -15,3 +15,7 @@ nteger gravida a ligula quis laoreet. Mauris semper metus et nisl finibus alique
 ## How to contribute
 
 In nec dolor ac eros ultrices tincidunt et ut neque. Duis eu fringilla ante. Aliquam ultricies orci et elit aliquet gravida. Duis enim
+
+## Copyright
+
+some copyright notice.
