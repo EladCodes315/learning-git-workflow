@@ -1,11 +1,11 @@
 # learning-git-workflow
 
-##Introduction
+## Introduction
 
 A simple demo to perfect git workflow
 
-##Purpose
+## Purpose
 
-##Deployment
+## Deployment
 
-##How to contribute
+## How to contribute
