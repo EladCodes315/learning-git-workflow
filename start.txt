@@ -3,3 +3,5 @@ Hello World
 some text
 
 some more text to comiit
+
+Adding text to intentionally make a conflict
