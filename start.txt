@@ -2,4 +2,6 @@ Hello World
 
 some text
 
-some more text to comiit
+some more text to commit
+
+not the same text as before
