@@ -3,5 +3,4 @@ Hello World
 some text
 
 some more text to commit
-
-not the same text as before
+Adding text to intentionally make a conflict
