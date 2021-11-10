@@ -23,3 +23,5 @@ some copyright notice.
 Just adding some text to commit
 
 Adding text to README for rebasing example
+
+more changes from feature branch
