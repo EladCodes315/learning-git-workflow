@@ -3,4 +3,8 @@ Hello World
 some text
 
 some more text to commit
+
 Adding text to intentionally make a conflict
+
+adding changes before rebase confilct
+
