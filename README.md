@@ -21,3 +21,5 @@ In nec dolor ac eros ultrices tincidunt et ut neque. Duis eu fringilla ante. Ali
 some copyright notice.
 
 Just adding some text to commit
+
+Adding text to README for rebasing example
