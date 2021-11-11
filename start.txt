@@ -1,4 +1,4 @@
- Hello World
+Hello World
 
 some text
 
@@ -12,3 +12,6 @@ more changes to start.txt
 
 adding text for remote rebsing example
 
+updating start.txt for stash example
+
+additional changes after applying stash
