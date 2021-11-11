@@ -26,4 +26,4 @@ Adding text to README for rebasing example
 
 more changes from feature branch
 
-All rights reserved
+emergency fix after stash
